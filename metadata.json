@@ -1,0 +1,7 @@
+{
+  "name": "SolverPro - Academic Problem Solver",
+  "description": "A professional platform for students to upload academic problems and for admins to manage solutions using Gemini AI analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
